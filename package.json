@@ -1,0 +1,7 @@
+{
+  "name": "all-contributors-action-testing",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinchang-bot/all-contributors-action-testing.git"
+  },
+}
