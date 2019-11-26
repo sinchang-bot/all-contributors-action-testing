@@ -1,0 +1,22 @@
+{
+  "commit": false,
+  "files": [
+    "README.md"
+  ],
+  "badgeTemplate": "\n[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)\n",
+  "projectName": "all-contributors-action-testing",
+  "projectOwner": "sinchang-bot",
+  "repoType": "github",
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "knewzen",
+      "name": "knewzen",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/10774154?v=4",
+      "profile": "https://github.com/knewzen",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ]
+}
