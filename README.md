@@ -12,7 +12,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/knewzen"><img src="https://avatars2.githubusercontent.com/u/10774154?v=4" width="100px;" alt="knewzen"/><br /><sub><b>knewzen</b></sub></a><br /><a href="https://github.com/sinchang-bot/all-contributors-action-testing/commits?author=knewzen" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://sinchang.me"><img src="https://avatars0.githubusercontent.com/u/3297859?v=4" width="100px;" alt="Jeff Wen"/><br /><sub><b>Jeff Wen</b></sub></a><br /><a href="https://github.com/sinchang-bot/all-contributors-action-testing/commits?author=sinchang" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://sinchang.me"><img src="https://avatars0.githubusercontent.com/u/3297859?v=4" width="100px;" alt="Jeff Wen"/><br /><sub><b>Jeff Wen</b></sub></a><br /><a href="https://github.com/sinchang-bot/all-contributors-action-testing/commits?author=sinchang" title="Documentation">📖</a> <a href="https://github.com/sinchang-bot/all-contributors-action-testing/commits?author=sinchang" title="Tests">⚠️</a></td>
   </tr>
 </table>
 
