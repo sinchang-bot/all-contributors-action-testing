@@ -9,7 +9,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/knewzen"><img src="https://avatars2.githubusercontent.com/u/10774154?v=4" width="100px;" alt="knewzen"/><br /><sub><b>knewzen</b></sub></a><br /><a href="https://github.com/sinchang-bot/all-contributors-action-testing/commits?author=knewzen" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/knewzen"><img src="https://avatars2.githubusercontent.com/u/10774154?v=4" width="100px;" alt="knewzen"/><br /><sub><b>knewzen</b></sub></a><br /><a href="https://github.com/sinchang-bot/all-contributors-action-testing/commits?author=knewzen" title="Documentation">📖</a> <a href="#infra-knewzen" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
   </tr>
 </table>
 
